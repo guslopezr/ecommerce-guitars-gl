@@ -58,7 +58,7 @@ p {
 }
 
 .main.box {
-    width: 135vh;
+    width: 138vh;
     display: grid;
     grid-template-columns: auto auto auto;
     height: 100%;
